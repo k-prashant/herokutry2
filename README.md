@@ -1,3 +1,5 @@
-# heroku-buildpack-converter-fonts
+# heroku-buildapacls-for-other-languages
 
-Heroku buildpack for installing various fonts on an heroku instance.
+Heroku buildpack for installing other regiional fonts
+
+It includes almost all Indian languages
